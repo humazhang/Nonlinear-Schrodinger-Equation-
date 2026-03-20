@@ -1,4 +1,6 @@
-# Nonlinear-Schrodinger-Equation-
+# Nonlinear-Schrodinger-Equation-With-a-Wave-Operator
+
+The code is packaged in SchrodingerMuFEM(1).rar.
 
 test.m is the main function.
 
